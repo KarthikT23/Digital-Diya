@@ -1,2 +1,2 @@
-# Digital Diya KiCad-Test-01
+# Digital Diya 
 First ever KiCad PCB design
